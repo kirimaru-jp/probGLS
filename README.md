@@ -2,6 +2,9 @@
 
 The package probabilistic algorithm for geolocation data (probGLS) provides some simple algorithms to determine animal movements with uncertainty based on light-level geolocators.
 
+## UPDATE 2025
+
+In this branch `ParticleFilter`, we implement a standard particle filter / Sequential Monte Carlo method for `probGLS`.
 
 ## Installing
 
